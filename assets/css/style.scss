@@ -5,6 +5,11 @@
 body {
   font-size: 11px;
 }
+// Hide header
 header {
 display: none;
+}
+// Hide “This site is open source. Improve this page.”
+.footer {
+  display: none;
 }
