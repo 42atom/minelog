@@ -13,8 +13,9 @@
 |605.962706867901 xch | 84.0 xch | 2022-02-22
 |605.962706867901 xch | 84.0 xch | 2022-02-22
 
-----
+-------
 
+`
 主机- 🌐: 29 
  Farmer 🕘 Jun 04 16:29:53 14.2|0.0 
  3990x Farming status: Farming Total chia farmed: 131.531814067493 User transaction fees: 0.031814067493 Block rewards: 131.5 Last height farmed: 2070599 Local Harvester 0 个: 0.000 MiB 
@@ -61,3 +62,4 @@ IP: 192.168.50.244 4704 个: 465.566 TiB
 IP: 192.168.50.228 4704 个: 465.567 TiB Plot count for all harvesters: 180137 Total size of plots: 17.411 PiB Estimated network space: 23.883 EiB Expected time to win: 7 hours and 20 minutes Note: log into your key using 'chia wallet show' to see rewards for each key 
 IP统计[41]-41 
  Check record: https://bit.ly/3CaKGrg
+ `
