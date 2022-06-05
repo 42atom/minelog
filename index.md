@@ -1,20 +1,24 @@
 ##### HOURS
-| main | other | time |
-|---|----|-----|
-|605.962706867901 xch | 84.0 xch | 2022-02-22 12:00
-|605.962706867901 xch | 84.0 xch | 2022-02-22 16:00
-
 -------
 
+| main | other | time |
+|---|----|-----|
+|605.962706867901 xch | 84.0 xch | 2022-02-22 12:00|
+|605.962706867901 xch | 84.0 xch | 2022-02-22 16:00|
+
+
 ##### DAILY
+-------
+
 | main | other | time|
 |---|----|-----|
 |605.962706867901 xch | 84.0 xch | 2022-02-22
 |605.962706867901 xch | 84.0 xch | 2022-02-22
 
--------
 
 ##### ABOUT
+-------
+
 `主机- 🌐: 29 
  Farmer 🕘 Jun 04 16:29:53 14.2|0.0 
  3990x Farming status: Farming Total chia farmed: 131.531814067493 User transaction fees: 0.031814067493 Block rewards: 131.5 Last height farmed: 2070599 Local Harvester 0 个: 0.000 MiB 
