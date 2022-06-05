@@ -1,4 +1,4 @@
-GitHub Pages["./log_daily"]
+GitHub Pages{% /log_daily %}
 
 
 | 主 | 副 | 时间|
