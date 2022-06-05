@@ -15,8 +15,8 @@ GitHub Pages{% /log_daily.md %}
 |605.962706867901 xch | 84.0 xch | 2022-02-22
 
 
-| 主 | 副 | 时间|
-|---|----|-----|
+| 主 |
+|---|
 |主机- 🌐: 29 
  Farmer 🕘 Jun 04 16:29:53 14.2|0.0 
  3990x Farming status: Farming Total chia farmed: 131.531814067493 User transaction fees: 0.031814067493 Block rewards: 131.5 Last height farmed: 2070599 Local Harvester 0 个: 0.000 MiB 
