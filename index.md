@@ -48,8 +48,7 @@
 ##### STATUS
 -------
 
-`
-IPs[42]-42
+`IPs[42]-42
 NODES: 17
 TIMES: Jun 06 23:09:30 1.5|0.0
 "3990x
@@ -146,7 +145,6 @@ Remote Harvester for IP: 192.168.50.220
    4704 plots of size: 465.566 TiB
 Plot count for all harvesters: 183796
 Total size of plots: 17.764 PiB
-Estimated network space: 24.377 EiB
-Expected time to win: 7 hours and 18 minutes
-Note: log into your key using 'chia wallet show' to see rewards for each key"
-`
+Estimated network space: 24.444 EiB
+Expected time to win: 7 hours and 15 minutes
+Note: log into your key using 'chia wallet show' to see rewards for each key"`
