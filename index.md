@@ -50,11 +50,11 @@
 
 IPs[42]-42
 
-NODES: 3
+NODES: 7
 
 Jul 11 11:02:08 0.0|0.0
 3990x
-Farming status: Not synced or not connected to peers
+Farming status: Syncing
 Total chia farmed: 149.528528392634
 User transaction fees: 0.028528392634
 Block rewards: 149.5
