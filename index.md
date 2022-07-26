@@ -50,15 +50,15 @@
 
 IPs[42]-41
 
-NODES: 52
+NODES: 12
 
-Jul 26 17:54:52 0.6|0.0
+Jul 27 04:10:00 0.8|0.0
 3990x
 Farming status: Farming
-Total chia farmed: 161.283235446604
+Total chia farmed: 161.533235446604
 User transaction fees: 0.033235446604
-Block rewards: 161.25
-Last height farmed: 2310549
+Block rewards: 161.5
+Last height farmed: 2312515
 Local Harvester
    0 plots of size: 0.000 MiB
 Remote Harvester for IP: 192.168.50.229
@@ -81,8 +81,6 @@ Remote Harvester for IP: 192.168.50.246
    4054 plots of size: 401.235 TiB
 Remote Harvester for IP: 192.168.50.210
    1764 plots of size: 174.589 TiB
-Remote Harvester for IP: 192.168.50.239
-   4704 plots of size: 465.567 TiB
 Remote Harvester for IP: 192.168.50.234
    4557 plots of size: 451.019 TiB
 Remote Harvester for IP: 192.168.50.235
@@ -107,13 +105,9 @@ Remote Harvester for IP: 192.168.50.242
    4703 plots of size: 465.469 TiB
 Remote Harvester for IP: 192.168.50.216
    4704 plots of size: 465.567 TiB
-Remote Harvester for IP: 192.168.50.240
-   4704 plots of size: 465.568 TiB
 Remote Harvester for IP: 192.168.50.245
    4704 plots of size: 465.569 TiB
 Remote Harvester for IP: 192.168.50.220
-   4704 plots of size: 465.566 TiB
-Remote Harvester for IP: 192.168.50.241
    4704 plots of size: 465.566 TiB
 Remote Harvester for IP: 192.168.50.227
    4704 plots of size: 465.568 TiB
@@ -139,12 +133,18 @@ Remote Harvester for IP: 192.168.50.237
    4704 plots of size: 465.567 TiB
 Remote Harvester for IP: 192.168.50.219
    4704 plots of size: 465.568 TiB
+Remote Harvester for IP: 192.168.50.231
+   4704 plots of size: 465.567 TiB
+Remote Harvester for IP: 192.168.50.240
+   4704 plots of size: 465.568 TiB
 Remote Harvester for IP: 192.168.50.238
    4703 plots of size: 465.469 TiB
-Remote Harvester for IP: 192.168.50.231
+Remote Harvester for IP: 192.168.50.241
+   4704 plots of size: 465.566 TiB
+Remote Harvester for IP: 192.168.50.239
    4704 plots of size: 465.567 TiB
 Plot count for all harvesters: 179786
 Total size of plots: 17.377 PiB
-Estimated network space: 22.060 EiB
-Expected time to win: 6 hours and 43 minutes
+Estimated network space: 21.812 EiB
+Expected time to win: 6 hours and 53 minutes
 Note: log into your key using 'chia wallet show' to see rewards for each key
