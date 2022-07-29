@@ -50,15 +50,15 @@
 
 IPs[42]-41
 
-NODES: 29
+NODES: 25
 
-Jul 29 20:58:13 3.7|0.0
+Jul 30 01:43:13 4.0|0.0
 3990x
 Farming status: Farming
-Total chia farmed: 164.785631501723
-User transaction fees: 0.035631501723
-Block rewards: 164.75
-Last height farmed: 2325033
+Total chia farmed: 165.285781506725
+User transaction fees: 0.035781506725
+Block rewards: 165.25
+Last height farmed: 2325975
 Local Harvester
    0 plots of size: 0.000 MiB
 Remote Harvester for IP: 192.168.50.229
@@ -69,12 +69,8 @@ Remote Harvester for IP: 192.168.50.213
    4701 plots of size: 465.271 TiB
 Remote Harvester for IP: 192.168.50.244
    4704 plots of size: 465.566 TiB
-Remote Harvester for IP: 192.168.50.201
-   2726 plots of size: 269.799 TiB
 Remote Harvester for IP: 192.168.50.202
    3110 plots of size: 307.806 TiB
-Remote Harvester for IP: 192.168.50.203
-   3072 plots of size: 304.043 TiB
 Remote Harvester for IP: 192.168.50.212
    3528 plots of size: 349.177 TiB
 Remote Harvester for IP: 192.168.50.246
@@ -121,8 +117,6 @@ Remote Harvester for IP: 192.168.50.233
    4704 plots of size: 465.569 TiB
 Remote Harvester for IP: 192.168.50.215
    4704 plots of size: 465.567 TiB
-Remote Harvester for IP: 192.168.50.127
-   3156 plots of size: 312.359 TiB
 Remote Harvester for IP: 192.168.50.243
    4627 plots of size: 457.947 TiB
 Remote Harvester for IP: 192.168.50.221
@@ -143,8 +137,14 @@ Remote Harvester for IP: 192.168.50.241
    4704 plots of size: 465.566 TiB
 Remote Harvester for IP: 192.168.50.239
    4704 plots of size: 465.567 TiB
+Remote Harvester for IP: 192.168.50.203
+   3072 plots of size: 304.043 TiB
+Remote Harvester for IP: 192.168.50.127
+   3156 plots of size: 312.359 TiB
+Remote Harvester for IP: 192.168.50.201
+   2726 plots of size: 269.799 TiB
 Plot count for all harvesters: 179786
 Total size of plots: 17.377 PiB
-Estimated network space: 22.057 EiB
-Expected time to win: 6 hours and 31 minutes
+Estimated network space: 21.623 EiB
+Expected time to win: 7 hours and 24 minutes
 Note: log into your key using 'chia wallet show' to see rewards for each key
