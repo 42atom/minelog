@@ -50,16 +50,19 @@
 
 IPs[42]-0
 
-NODES: 0
+NODES: 10
 
-
+Aug 20 00:51:24 0.0|0.0
 3990x
-Connection error. Check if farmer is running at 8559
-Connection error. Check if full node is running at 8555
-Connection error. Check if farmer is running at 8559
-Farming status: Not available
-Plot count: Unknown
-Total size of plots: Unknown
-Estimated network space: Unknown
-Expected time to win: Unknown
-For details on farmed rewards and fees you should run 'chia start wallet' and 'chia wallet show'
+Farming status: Farming
+Total chia farmed: 73.511172461932
+User transaction fees: 0.011172461932
+Block rewards: 73.5
+Last height farmed: 1582444
+Local Harvester
+   0 plots of size: 0.000 MiB
+Plot count for all harvesters: 0
+Total size of plots: 0.000 MiB
+Estimated network space: 22.148 EiB
+Expected time to win: Never (no plots)
+Note: log into your key using 'chia wallet show' to see rewards for each key
