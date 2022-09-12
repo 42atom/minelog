@@ -50,15 +50,15 @@
 
 IPs[42]-41
 
-NODES: 16
+NODES: 17
 
-Sep 12 01:09:47 3.7|0.0
+Sep 12 09:27:52 4.0|0.0
 3990x
 Farming status: Farming
-Total chia farmed: 224.064421268789
-User transaction fees: 0.064421268789
-Block rewards: 224.0
-Last height farmed: 2528945
+Total chia farmed: 224.564421268791
+User transaction fees: 0.064421268791
+Block rewards: 224.5
+Last height farmed: 2530536
 Local Harvester
    0 plots of size: 0.000 MiB
 Remote Harvester for IP: 192.168.50.233
@@ -81,8 +81,6 @@ Remote Harvester for IP: 192.168.50.218
    4704 plots of size: 465.568 TiB
 Remote Harvester for IP: 192.168.50.220
    4704 plots of size: 465.566 TiB
-Remote Harvester for IP: 192.168.50.239
-   4704 plots of size: 465.567 TiB
 Remote Harvester for IP: 192.168.50.242
    4703 plots of size: 465.469 TiB
 Remote Harvester for IP: 192.168.50.244
@@ -109,12 +107,8 @@ Remote Harvester for IP: 192.168.50.227
    4704 plots of size: 465.568 TiB
 Remote Harvester for IP: 192.168.50.219
    4704 plots of size: 465.568 TiB
-Remote Harvester for IP: 192.168.50.240
-   4704 plots of size: 465.568 TiB
 Remote Harvester for IP: 192.168.50.211
    3528 plots of size: 349.178 TiB
-Remote Harvester for IP: 192.168.50.241
-   4704 plots of size: 465.566 TiB
 Remote Harvester for IP: 192.168.50.245
    4704 plots of size: 465.569 TiB
 Remote Harvester for IP: 192.168.50.212
@@ -139,12 +133,18 @@ Remote Harvester for IP: 192.168.50.127
    3156 plots of size: 312.359 TiB
 Remote Harvester for IP: 192.168.50.221
    4703 plots of size: 465.469 TiB
-Remote Harvester for IP: 192.168.50.238
-   4703 plots of size: 465.469 TiB
 Remote Harvester for IP: 192.168.50.237
    4704 plots of size: 465.567 TiB
+Remote Harvester for IP: 192.168.50.239
+   4704 plots of size: 465.567 TiB
+Remote Harvester for IP: 192.168.50.240
+   4704 plots of size: 465.568 TiB
+Remote Harvester for IP: 192.168.50.238
+   4703 plots of size: 465.469 TiB
+Remote Harvester for IP: 192.168.50.241
+   4704 plots of size: 465.566 TiB
 Plot count for all harvesters: 179914
 Total size of plots: 17.389 PiB
-Estimated network space: 22.065 EiB
-Expected time to win: 6 hours and 49 minutes
+Estimated network space: 21.925 EiB
+Expected time to win: 6 hours and 57 minutes
 Note: log into your key using 'chia wallet show' to see rewards for each key
