@@ -55,10 +55,10 @@ NODES: 0
 
 3990x
 Farming status: Not synced or not connected to peers
-Total chia farmed: 396.420435519651
-User transaction fees: 0.170435519651
-Block rewards: 396.25
-Last height farmed: 3458918
+Total chia farmed: 324.883313275521
+User transaction fees: 0.133313275521
+Block rewards: 324.75
+Last height farmed: 3111914
 Local Harvester
    0 plots of size: 0.000 MiB
 Remote Harvester for IP: 192.168.50.230
