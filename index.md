@@ -54,7 +54,7 @@ NODES: 0
 
 
 3990x
-Farming status: Farming
+Farming status: Not synced or not connected to peers
 Total chia farmed: 430.18638757469
 User transaction fees: 0.18638757469
 Block rewards: 430.0
