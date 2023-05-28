@@ -3,6 +3,7 @@
 
 | 1st | 2nd | hour |
 |---|----|-----|
+|Connect |  | 03:05@29 |
 |Connect |  | 00:05@29 |
 |Connect |  | 21:05@28 |
 |Connect |  | 18:05@28 |
@@ -10,7 +11,6 @@
 |Connect |  | 12:05@28 |
 |Connect |  | 09:05@28 |
 |Connect |  | 06:05@28 |
-|Connect |  | 03:05@28 |
 
 ##### DAILY
 -------
