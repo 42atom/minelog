@@ -48,17 +48,17 @@
 ##### STATUS
 -------
 
-IPs[42]-40
+IPs[42]-39
 
 NODES: 0
 
 
 3990x
 Farming status: Farming
-Total chia farmed: 445.940714415435
-User transaction fees: 0.190714415435
-Block rewards: 445.75
-Last height farmed: 3823875
+Total chia farmed: 446.19071441544
+User transaction fees: 0.19071441544
+Block rewards: 446.0
+Last height farmed: 3825383
 Local Harvester
    0 plots of size: 0.000 MiB
 Remote Harvester for IP: 192.168.50.126
@@ -97,8 +97,6 @@ Remote Harvester for IP: 192.168.50.220
    4704 plots of size: 465.566 TiB
 Remote Harvester for IP: 192.168.50.224
    4703 plots of size: 465.467 TiB
-Remote Harvester for IP: 192.168.50.225
-   4704 plots of size: 465.568 TiB
 Remote Harvester for IP: 192.168.50.226
    4702 plots of size: 465.368 TiB
 Remote Harvester for IP: 192.168.50.227
@@ -141,8 +139,8 @@ Remote Harvester for IP: 192.168.50.241
    4704 plots of size: 465.566 TiB
 Remote Harvester for IP: 192.168.50.240
    4704 plots of size: 465.568 TiB
-Plot count for all harvesters: 177529
-Total size of plots: 17.159 PiB
-Estimated network space: 24.902 EiB
-Expected time to win: 8 hours
+Plot count for all harvesters: 172825
+Total size of plots: 16.704 PiB
+Estimated network space: 24.590 EiB
+Expected time to win: 8 hours and 7 minutes
 Note: log into your key using 'chia wallet show' to see rewards for each key
