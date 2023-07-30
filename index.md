@@ -79,8 +79,6 @@ Remote Harvester for IP: 192.168.50.227
    4704 plots of size: 465.568 TiB
 Remote Harvester for IP: 192.168.50.220
    4704 plots of size: 465.566 TiB
-Remote Harvester for IP: 192.168.50.239
-   4704 plots of size: 465.567 TiB
 Remote Harvester for IP: 192.168.50.222
    4703 plots of size: 465.468 TiB
 Remote Harvester for IP: 192.168.50.202
@@ -93,8 +91,6 @@ Remote Harvester for IP: 192.168.50.212
    3528 plots of size: 349.177 TiB
 Remote Harvester for IP: 192.168.50.234
    4557 plots of size: 451.019 TiB
-Remote Harvester for IP: 192.168.50.238
-   4703 plots of size: 465.469 TiB
 Remote Harvester for IP: 192.168.50.214
    4701 plots of size: 465.273 TiB
 Remote Harvester for IP: 192.168.50.126
@@ -109,16 +105,12 @@ Remote Harvester for IP: 192.168.50.221
    4703 plots of size: 465.469 TiB
 Remote Harvester for IP: 192.168.50.211
    3528 plots of size: 349.178 TiB
-Remote Harvester for IP: 192.168.50.240
-   4704 plots of size: 465.568 TiB
 Remote Harvester for IP: 192.168.50.246
    4054 plots of size: 401.235 TiB
 Remote Harvester for IP: 192.168.50.228
    4704 plots of size: 465.567 TiB
 Remote Harvester for IP: 192.168.50.233
    4704 plots of size: 465.569 TiB
-Remote Harvester for IP: 192.168.50.241
-   4704 plots of size: 465.566 TiB
 Remote Harvester for IP: 192.168.50.237
    4704 plots of size: 465.567 TiB
 Remote Harvester for IP: 192.168.50.235
@@ -137,8 +129,16 @@ Remote Harvester for IP: 192.168.50.203
    2707 plots of size: 267.918 TiB
 Remote Harvester for IP: 192.168.50.244
    4704 plots of size: 465.566 TiB
+Remote Harvester for IP: 192.168.50.238
+   4703 plots of size: 465.469 TiB
+Remote Harvester for IP: 192.168.50.240
+   4704 plots of size: 465.568 TiB
+Remote Harvester for IP: 192.168.50.241
+   4704 plots of size: 465.566 TiB
+Remote Harvester for IP: 192.168.50.239
+   4704 plots of size: 465.567 TiB
 Plot count for all harvesters: 170080
 Total size of plots: 16.439 PiB
-Estimated network space: 26.097 EiB
-Expected time to win: 8 hours and 15 minutes
+Estimated network space: 26.232 EiB
+Expected time to win: 8 hours and 38 minutes
 Note: log into your key using 'chia wallet show' to see rewards for each key
