@@ -48,7 +48,7 @@
 ##### STATUS
 -------
 
-IPs[42]-41
+IPs[42]-40
 
 NODES: 0
 
@@ -125,8 +125,6 @@ Remote Harvester for IP: 192.168.50.224
    4703 plots of size: 465.467 TiB on-disk, 465.707 TiBe (effective)
 Remote Harvester for IP: 192.168.50.241
    4704 plots of size: 465.566 TiB on-disk, 465.806 TiBe (effective)
-Remote Harvester for IP: 192.168.50.234
-   4557 plots of size: 451.019 TiB on-disk, 451.250 TiBe (effective)
 Remote Harvester for IP: 192.168.50.126
    3156 plots of size: 312.359 TiB on-disk, 312.518 TiBe (effective)
 Remote Harvester for IP: 192.168.50.207
@@ -143,8 +141,8 @@ Remote Harvester for IP: 192.168.50.201
    2598 plots of size: 257.130 TiB on-disk, 257.263 TiBe (effective)
 Remote Harvester for IP: 192.168.50.225
    4704 plots of size: 465.568 TiB on-disk, 465.806 TiBe (effective)
-Plot count for all harvesters: 179743
-Total size of plots: 17.373 PiB, 17.382 PiBe (effective)
-Estimated network space: 31.059 EiB
-Expected time to win: 8 hours and 41 minutes
+Plot count for all harvesters: 175186
+Total size of plots: 16.932 PiB, 16.941 PiBe (effective)
+Estimated network space: 30.721 EiB
+Expected time to win: 9 hours and 30 minutes
 Note: log into your key using 'chia wallet show' to see rewards for each key
