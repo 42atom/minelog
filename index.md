@@ -141,6 +141,6 @@ Remote Harvester for IP: 192.168.50.126
    3156 plots of size: 312.359 TiB on-disk, 312.518 TiBe (effective)
 Plot count for all harvesters: 170482
 Total size of plots: 16.478 PiB, 16.486 PiBe (effective)
-Estimated network space: 30.289 EiB
-Expected time to win: 8 hours and 41 minutes
+Estimated network space: 30.730 EiB
+Expected time to win: 8 hours and 43 minutes
 Note: log into your key using 'chia wallet show' to see rewards for each key
